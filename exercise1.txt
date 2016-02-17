@@ -1,0 +1,9 @@
+1. Each div is 350px.
+2. The divs become narrower.
+3. Both divs appear next to each other on the right side of the page.
+4. Both divs appear next to each other on the left side of the page.
+5. The divs get cut off as the page gets smaller.
+6. The divs are next to each other but div 1 is all the way on the right side of the page and div 2 is on the left side.
+7. Div 1 is so wide that it get cutoff the page and div 2 is underneath it to the right.
+8.
+9. The divs adjust so that they can always be seen on the page when you resize your browser.
